@@ -45,3 +45,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to you for checking out this amazing project.
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
