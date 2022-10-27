@@ -15,4 +15,9 @@ module MyEnumerable
     result
   end
 
+  def filter?
+    array = []
+    each { |number| array.push(number) if yield(number) }
+    array
+  end
 end
